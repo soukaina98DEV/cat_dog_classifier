@@ -3,4 +3,6 @@ opencv-python==4.5.1.48
 Pillow==10.1.0
 streamlit==1.28.1
 tensorflow==2.14.0
+libgl1-mesa-glx
+
 
